@@ -19,7 +19,7 @@
     * E por fim a igualdade '=';
 
 
-![Aparência da aplicação](Imagem)
+![Aparência da aplicação](https://github.com/DayaneCordeiro/Calculadora/blob/master/images/Interface.PNG)
 
 
-![Funcionamento da aplicação](gif)
+![Funcionamento da aplicação](https://github.com/DayaneCordeiro/Calculadora/blob/master/images/Gif.gif)
