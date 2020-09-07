@@ -10,4 +10,4 @@
 
 * Para mudar um componente para Statefull rapidamente, basta clicar em cima, apertar ctrl + . e clicar na opção de conversão.
 
-PAREI EM 41:59
+* A lógica da cálculadora é concatenar os valores que são digitados e mostrá-los no display. Quando a operação é clicada, o próximo número que é digitado substitui o que está no display.

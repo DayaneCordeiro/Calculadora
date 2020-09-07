@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import '../components/display.dart';
 import '../components/keyboard.dart';
 import '../models/memory.dart';
@@ -19,7 +20,12 @@ class _CalculatorState extends State<Calculator> {
 
   @override
   Widget build(BuildContext context) {
+    /* Vai impedir que o aplicativo rotacione quando virar a tela */
+    SystemChrome.setPreferredOrientations([
+      DeviceOrientation.portraitUp,
+    ]);
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Column(
         children: <Widget>[
           Display(memory.value),
