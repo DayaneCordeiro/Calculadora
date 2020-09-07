@@ -8,4 +8,6 @@
     * auto_size_text: ^2.1.0
     * importa dentro do arquivo: import 'package:auto_size_text/auto_size_text.dart';
 
-PAREI NO 33:00
+* Para mudar um componente para Statefull rapidamente, basta clicar em cima, apertar ctrl + . e clicar na opção de conversão.
+
+PAREI EM 41:59
